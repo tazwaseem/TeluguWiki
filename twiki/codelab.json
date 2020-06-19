@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-06-19T12:48:13+05:30",
+  "id": "twiki",
+  "duration": 23,
+  "title": "తెలుగు వికీపీడియా పరిచయం",
+  "authors": "taz",
+  "summary": "Testing sample wiki",
+  "source": "smaplewiki.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "medium"
+  ],
+  "url": "twiki"
+}
